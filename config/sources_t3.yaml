@@ -1,0 +1,20 @@
+
+sources:
+  - name: ERTMS_SUBSET026_2v360
+    url: https://webpages.iust.ac.ir/sandidzadeh/Courses/Signalling%202/spec3%20ETCS%20baseline%203%20and%20GSM-R%20baseline%201/Index04%20SUBSET-026%20v360/SUBSET-026-2%20v360.pdf
+
+    type: pdf
+    sector: rail
+  - name: AUTOSAR_RS_Main
+    url: https://www.autosar.org/fileadmin/standards/R24-11/FO/AUTOSAR_FO_RS_Main.pdf 
+
+    type: pdf
+    sector: automotive
+  - name: FHIR_Conformance_Rules
+    url: https://build.fhir.org/conformance-rules.html
+    type: html
+    sector: medical
+  - name: NASA_Trick_SRS
+    url: https://nasa.github.io/trick/documentation/software_requirements_specification/SRS.html
+    type: html
+    sector: aerospace

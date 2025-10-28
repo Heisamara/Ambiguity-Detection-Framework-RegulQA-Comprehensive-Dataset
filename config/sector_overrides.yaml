@@ -1,0 +1,4 @@
+# Override sector per document/file (optional)
+# Example:
+# PURE_somefile.csv: medical
+# PROM_dataset_v1.csv: automotive
