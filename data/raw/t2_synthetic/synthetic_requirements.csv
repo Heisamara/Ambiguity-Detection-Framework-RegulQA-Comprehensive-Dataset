@@ -1,0 +1,301 @@
+sector,document,req_text
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 200 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 50 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall validate torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when loss of signal in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 200 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 10 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 10 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall limit torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall limit the braking command within 10 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 10 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 50 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall limit torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall validate the braking command within 100 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall validate sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 100 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 100 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 10 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 50 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 200 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall log sensor fusion output within 20 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 200 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall validate sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 10 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 200 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall validate the braking command within 100 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall transmit sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall transmit sensor fusion output within 20 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 50 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 10 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 100 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 20 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall limit the braking command within 100 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when loss of signal in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall limit the braking command within 100 ms under sensor fault."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall store sensor fusion output within 20 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 20 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 20 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall validate the braking command within 50 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 10 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall validate sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 10 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall limit the braking command within 20 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 20 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall log torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall transmit the braking command within 50 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall validate the braking command within 100 ms under loss of signal."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall store the braking command within 50 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 10 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall log sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 20 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall compute torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall transmit sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall log the braking command within 20 ms under voltage drop."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall limit sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 10 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall store torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall log sensor fusion output within 50 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 20 ms under over-temperature."
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall store sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall compute sensor fusion output within 200 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when voltage drop in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The autonomous driving stack shall log sensor fusion output within 100 ms (ISO 26262 ASIL).
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall transmit torque request when sensor fault in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,The vehicle control unit shall limit torque request when over-temperature in accordance with ISO 26262.
+automotive,AUTOMOTIVE_SYNTH,"Per ISO 26262, the ECU shall compute the braking command within 50 ms under loss of signal."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,The device shall limit alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall transmit dosage calculation when sensor fault."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when loss of signal."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall validate patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,The device shall log alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall store alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall transmit alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall store alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall limit alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall validate alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 10 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall validate patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall store dosage calculation when sensor fault."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall transmit dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,The device shall compute alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall validate alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall limit alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall log alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall compute dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,The device shall log alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,The device shall validate alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,The device shall compute alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall compute dosage calculation when over-temperature."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 10 ms."
+medical,MEDICAL_SYNTH,The device shall log alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall limit alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,The device shall transmit alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall validate alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall transmit alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall compute dosage calculation when sensor fault."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall transmit dosage calculation when loss of signal."
+medical,MEDICAL_SYNTH,The device shall log alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall validate patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall transmit dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall store dosage calculation when over-temperature."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 10 ms."
+medical,MEDICAL_SYNTH,The device shall log alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall validate patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall limit dosage calculation when loss of signal."
+medical,MEDICAL_SYNTH,The device shall store alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,The device shall transmit alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall limit dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall log dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall log patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,The device shall store alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when loss of signal."
+medical,MEDICAL_SYNTH,The device shall validate alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall validate alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall limit patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,The device shall limit alarm when sensor fault per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 10 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall compute dosage calculation when over-temperature."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall store dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall transmit dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall log dosage calculation when loss of signal."
+medical,MEDICAL_SYNTH,The device shall compute alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall limit dosage calculation when over-temperature."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall validate dosage calculation when voltage drop."
+medical,MEDICAL_SYNTH,The device shall validate alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall limit alarm when over-temperature per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall compute patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,The device shall limit alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall log alarm when voltage drop per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 20 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall validate patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall store patient vitals at an interval of 200 ms."
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 100 ms."
+medical,MEDICAL_SYNTH,The device shall store alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,The device shall compute alarm when loss of signal per IEC 62304 risk control requirements.
+medical,MEDICAL_SYNTH,"As required by IEC 62304, the medical device software shall transmit patient vitals at an interval of 50 ms."
+medical,MEDICAL_SYNTH,"Per IEC 62304, the software shall limit dosage calculation when voltage drop."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 100 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall limit command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 50 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 100 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall compute command dispatch within 50 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 100 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall store mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 10 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 200 ms after voltage drop."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall store telemetry packets within 10 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall limit command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall store telemetry packets within 20 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall store telemetry packets within 200 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 100 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 200 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall log command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 10 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall limit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 50 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall log telemetry packets within 100 ms after voltage drop."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 10 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall validate mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall log mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall log mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall compute command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall transmit telemetry packets within 20 ms after voltage drop."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall validate command dispatch within 10 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall log command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall transmit telemetry packets within 10 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 10 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall log mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall transmit telemetry packets within 10 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 10 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall transmit telemetry packets within 200 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall store mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 200 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall store telemetry packets within 100 ms after over-temperature."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall limit telemetry packets within 50 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall validate command dispatch within 10 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall log telemetry packets within 50 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall validate command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall compute command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall store telemetry packets within 50 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall transmit telemetry packets within 100 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall log mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall limit command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 50 ms after voltage drop."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall log telemetry packets within 10 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 50 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall compute mode transition when loss of signal.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall validate mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall store mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall store command dispatch within 20 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall store mode transition when voltage drop.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall transmit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when over-temperature.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 200 ms after sensor fault."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 200 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall validate telemetry packets within 20 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 100 ms."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall limit mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"In accordance with DO-178C avionics objectives, the flight SW shall compute telemetry packets within 100 ms after loss of signal."
+aerospace,AEROSPACE_SYNTH,DO-178C: The system shall store mode transition when sensor fault.
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall transmit command dispatch within 200 ms."
+aerospace,AEROSPACE_SYNTH,"Per DO-178C, the avionics application shall compute command dispatch within 100 ms."
