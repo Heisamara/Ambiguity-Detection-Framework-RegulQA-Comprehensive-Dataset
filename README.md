@@ -1,4 +1,4 @@
-# RegulQA – Phase 1 (FINAL)
+# RegulQA – Phase 1
 
 A clean, simple scaffold to build **RegulQA‑Ambig v1** with three tiers:
 - **T1**: Public academic datasets (PURE, PROMISE_exp/Promise+, NASA Trick SRS page)
