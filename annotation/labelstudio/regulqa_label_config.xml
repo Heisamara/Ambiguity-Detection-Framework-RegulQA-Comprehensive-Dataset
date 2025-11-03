@@ -1,0 +1,36 @@
+<View>
+  <Text name="text" value="$req_text"/>
+  <Choices name="ambig_presence" toName="text" choice="single" required="true">
+    <Choice value="clear"/>
+    <Choice value="ambiguous"/>
+  </Choices>
+  <Choices name="ambig_type" toName="text" choice="multiple">
+    <Choice value="lexical"/>
+    <Choice value="syntactic"/>
+    <Choice value="semantic"/>
+  </Choices>
+  <Choices name="reg_clause" toName="text" choice="single">
+    <Choice value="ISO_29148"/>
+    <Choice value="ISO_26262"/>
+    <Choice value="DO_178C"/>
+    <Choice value="IEC_62304"/>
+    <Choice value="NASA_SWEHB"/>
+    <Choice value="NA"/>
+  </Choices>
+  <Choices name="sector" toName="text" choice="single">
+    <Choice value="automotive"/>
+    <Choice value="medical"/>
+    <Choice value="aerospace"/>
+    <Choice value="rail"/>
+    <Choice value="finance"/>
+    <Choice value="defense"/>
+    <Choice value="energy"/>
+    <Choice value="general"/>
+  </Choices>
+  <Choices name="severity" toName="text" choice="single">
+    <Choice value="low"/>
+    <Choice value="medium"/>
+    <Choice value="high"/>
+  </Choices>
+  <TextArea name="notes" toName="text" rows="3" placeholder="rater comments..."/>
+</View>

@@ -1,0 +1,18 @@
+
+sources:
+  - name: ERTMS_SUBSET026_2v360
+    url: https://example.com/ertms/SUBSET-026-2%20v360.pdf
+    type: pdf
+    sector: rail
+  - name: AUTOSAR_RS_Main
+    url: https://example.com/autosar/AUTOSAR_RS_Main.pdf
+    type: pdf
+    sector: automotive
+  - name: FHIR_Conformance_Rules
+    url: https://build.fhir.org/conformance-rules.html
+    type: html
+    sector: medical
+  - name: NASA_Trick_SRS
+    url: https://nasa.github.io/trick/documentation/software_requirements_specification/SRS.html
+    type: html
+    sector: aerospace

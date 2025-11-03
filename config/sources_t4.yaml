@@ -1,0 +1,25 @@
+sources:
+  - name: OCF_Spec_Core
+    url: https://<real>/ocf-core-specification.pdf
+    type: pdf
+    sector: general
+
+  - name: W3C_WoT_Architecture
+    url: https://www.w3.org/TR/wot-architecture/
+    type: html
+    sector: general
+
+  - name: Thread_Spec_Overview
+    url: https://<real>/thread-spec-overview.pdf
+    type: pdf
+    sector: energy
+
+  - name: OpenHAB_Dev_Guide
+    url: https://www.openhab.org/docs/developer/
+    type: html
+    sector: general
+
+  - name: HomeAssistant_Arch
+    url: https://developers.home-assistant.io/docs/architecture_index/
+    type: html
+    sector: general
