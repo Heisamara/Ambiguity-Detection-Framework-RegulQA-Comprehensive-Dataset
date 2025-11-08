@@ -1,0 +1,58 @@
+base) amarachi@Amarachis-MacBook-Pro RegulQA-Phase1 % python /Users/amarachi/Documents/AQA/Dataset_T1/RegulQA-Phase1/data/processed/bootstrap_v1_labels.py
+Loading dataset...
+✅ Loaded 3314 rows and 11 columns.
+
+=== QUALITY SUMMARY ===
+Total rows: 3314
+
+ambig_presence distribution:
+ ambig_presence
+ambiguous    2458
+clear         856
+Name: count, dtype: int64
+
+Top ambig_type (ambiguous only):
+ ambig_type
+syntactic                     1058
+lexical;syntactic              766
+lexical                        562
+semantic;syntactic              47
+lexical;semantic;syntactic      13
+lexical;semantic                 6
+semantic                         6
+Name: count, dtype: int64
+
+Duplicate req_text entries: 0
+
+✅ Labeled dataset written to:
+/Users/amarachi/Documents/AQA/Dataset_T1/RegulQA-Phase1/data/processed/regulqa_ambig_v11.csv
+You can now proceed to Phase 2: Pre-processing & Feature Extraction.
+
+Metric
+Your Result
+Target
+Verdict
+Total size
+3314 rows
+≥ 2500 rows
+✅ ample data
+ambig_presence split
+2458 (ambiguous) / 856 (clear) ≈ 74 / 26 %
+ideally 40–60 % ± 10 %
+⚠️ imbalanced but usable (oversample clear later)
+ambig_type variety
+syntactic > lexical;syntactic > lexical
+≥ 3 types represented
+✅ diverse patterns
+Duplicates
+0
+< 3 %
+✅
+Missing text
+0
+≤ 1 %
+✅
+Tier/sector metadata
+present
+required for stratified sampling
+✅

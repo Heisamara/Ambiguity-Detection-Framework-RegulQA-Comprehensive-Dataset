@@ -1,0 +1,4 @@
+document,req_text
+Thread_Spec_Features.pdf,"The RIO indicates to them that IPv6 packets destined to IPv6 addresses within the OMR Prefix should be sent to the Thread Border Router for forwarding, rather than being sent to their usual IPv6 default router (if present)."
+Thread_Spec_Features.pdf,"However, a Thread Certified Component must implement the TCP initiator and listener roles and must implement a well-defined API to use these roles."
+Thread_Spec_Features.pdf,Protocols that run over UDP can’t provide this capability or must provide traversal keep-alive traffic at excessively high rates to deal with short hole lifetimes.

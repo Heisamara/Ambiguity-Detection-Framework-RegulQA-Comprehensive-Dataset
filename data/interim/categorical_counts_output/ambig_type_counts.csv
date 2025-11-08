@@ -1,0 +1,9 @@
+ambig_type,count,percent
+syntactic,1058,31.93
+,856,25.83
+lexical;syntactic,766,23.11
+lexical,562,16.96
+semantic;syntactic,47,1.42
+lexical;semantic;syntactic,13,0.39
+lexical;semantic,6,0.18
+semantic,6,0.18

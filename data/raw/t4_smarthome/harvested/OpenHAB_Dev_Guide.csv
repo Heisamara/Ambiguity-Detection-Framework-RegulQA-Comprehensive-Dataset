@@ -1,0 +1,4 @@
+document,req_text
+OpenHAB_Dev_Guide.html,Git (opens new window) For retrieving our source code and push changes back. On Windows: Must be available in %PATH%
+OpenHAB_Dev_Guide.html,Maven 3.x (opens new window) Our build system tool. On Windows: Must be available in %PATH%
+OpenHAB_Dev_Guide.html,"Java JDK 21, for example the Eclipse Temurin 21 JDK (opens new window) . On Windows: %JAVA% must be set."

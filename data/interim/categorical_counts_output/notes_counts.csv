@@ -1,0 +1,35 @@
+notes,count,percent
+passive,1058,31.93
+,856,25.83
+modal_vague,399,12.04
+"modal_vague, passive",233,7.03
+"vague_term, comparative, modal_vague, passive",150,4.53
+"vague_term, modal_vague, passive",140,4.22
+"vague_term, passive",85,2.56
+"vague_term, modal_vague",56,1.69
+"comparative, modal_vague, passive",55,1.66
+"comparative, passive",51,1.54
+vague_term,51,1.54
+"passive, anaphora",47,1.42
+"comparative, modal_vague",24,0.72
+"vague_term, comparative, passive",23,0.69
+comparative,16,0.48
+"vague_term, comparative, modal_vague, passive, unbounded",16,0.48
+"vague_term, comparative, modal_vague",9,0.27
+anaphora,6,0.18
+"modal_vague, anaphora",6,0.18
+"comparative, modal_vague, passive, unbounded",5,0.15
+"vague_term, modal_vague, passive, anaphora",4,0.12
+"vague_term, passive, anaphora",4,0.12
+"vague_term, comparative",3,0.09
+"modal_vague, passive, anaphora",3,0.09
+"vague_term, modal_vague, passive, unbounded",3,0.09
+"passive, unbounded",2,0.06
+"modal_vague, unbounded",2,0.06
+"modal_vague, passive, unbounded",1,0.03
+"vague_term, comparative, modal_vague, passive, anaphora",1,0.03
+"comparative, passive, unbounded",1,0.03
+"vague_term, modal_vague, unbounded",1,0.03
+"comparative, modal_vague, passive, anaphora",1,0.03
+"vague_term, passive, unbounded",1,0.03
+unbounded,1,0.03

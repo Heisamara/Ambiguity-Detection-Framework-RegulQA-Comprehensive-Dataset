@@ -1,0 +1,4 @@
+document,req_text
+Thread_Network_Fundamentals.pdf,"However, the SED can and will select another Parent if its current Parent is unavailable, so this failure should not be visible to the user."
+Thread_Network_Fundamentals.pdf,Adding a new device to a Thread Network There are three phases a new device must go through before it can participate in a Thread Network: 1.
+Thread_Network_Fundamentals.pdf,"Discovery Before a Thread Device can participate in a Thread Network, it must first discover and establish contact with a Joiner Router for commissioning."
